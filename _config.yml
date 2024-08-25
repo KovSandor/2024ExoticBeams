@@ -22,7 +22,7 @@ title: Formation of the REP - RIKEN RIBF experiment
 email: srkovacs@atomki.hu
 description: >- # this means to ignore newlines until "baseurl:"
   Exploring the formation of the rare earth peak (REP) in the r-process freeze-out phase, focusing on neutron-rich isotopes. Our experiment at RIKEN RIBF aims to study these influential isotopes.
-baseurl: "/2024ExoticBeams" # the subpath of your site, e.g. /blog
+baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://kovsandor.github.io/2024ExoticBeams/" # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username: jekyllrb
 github_username:  KovSandor
