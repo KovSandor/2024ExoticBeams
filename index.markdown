@@ -5,7 +5,6 @@
 layout: page
 ---
 
-## Welcome
 You can download the pdf version of my poster through the [following link](/KovacsSandor-ExoticBeamsPoster.pdf) for your convenience.
 
 
