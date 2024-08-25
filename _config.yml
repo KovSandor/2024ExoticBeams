@@ -18,16 +18,14 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Formation of the Rare Earth Peak - investigating neutron-rich nuclei at RIKEN RIBF 
-email: your-email@example.com
+title: Formation of the REP - RIKEN RIBF experiment
+email: srkovacs@atomki.hu
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
-baseurl: "2024ExoticBeams" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jekyllrb
-github_username:  jekyll
+  Exploring the formation of the rare earth peak (REP) in the r-process freeze-out phase, focusing on neutron-rich isotopes. Our experiment at RIKEN RIBF aims to study these influential isotopes.
+baseurl: "/2024ExoticBeams" # the subpath of your site, e.g. /blog
+url: "https://kovsandor.github.io/2024ExoticBeams/" # the base hostname & protocol for your site, e.g. http://example.com
+# twitter_username: jekyllrb
+# github_username:  KovSandor
 
 # Build settings
 theme: minima
