@@ -10,6 +10,7 @@ You can download the pdf version of my poster through the [following link](/Kova
 
 
 You have already seen the Particle Identification Diagram (PID) on my poster and the final fitted histograms which give our final half-life and delayed neutron emission probabilities.
+In the following I would like to briefly introduce the steps to make this happen.
 
 ![PID](/pid_web.png)
 
@@ -18,3 +19,4 @@ This made it possible to measure the nuclear decay properties of many neutron-ri
 
 It is crucial to correctly identify the isotopes in question.
 
+![2D-projection](/projection_labels.png)
