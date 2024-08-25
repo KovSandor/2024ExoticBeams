@@ -4,15 +4,7 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+Hello! My name is Sándor Kovács and I'm a second year PhD student at the University of Debrecen.
+I'm currently working on 86Kr(a,n) cross section measurements at my home institution and analyzing data from our previous RIKEN RIBF measurement. 
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
-
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
+If you're interested in my professional work, check out my [ORCID](https://orcid.org/0009-0009-9796-2970).
