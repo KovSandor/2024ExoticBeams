@@ -6,4 +6,4 @@ layout: home
 ---
 
 # Welcome
-You can download the pdf version of my poster through the ![following link](/KovacsSandor-ExoticBeamsPoster.pdf).
+You can download the pdf version of my poster through the [following link](/KovacsSandor-ExoticBeamsPoster.pdf).
