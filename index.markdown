@@ -2,11 +2,13 @@
 # Feel free to add content and custom Front Matter to this file.
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
-layout: home
+layout: page
 ---
 
 ## Welcome
-You can download the pdf version of my poster through the [following link](/KovacsSandor-ExoticBeamsPoster.pdf) for your convenience. 
+You can download the pdf version of my poster through the [following link](/KovacsSandor-ExoticBeamsPoster.pdf) for your convenience.
+
+
 You have already seen the Particle Identification Diagram (PID) on my poster and the final fitted histograms which give our final half-life and delayed neutron emission probabilities.
 
 ![PID](/pid_web.png)
