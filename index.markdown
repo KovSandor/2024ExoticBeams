@@ -21,8 +21,12 @@ When examining the 3D version of the PID, it becomes evident that isolating the 
 
 ![3D-projection](/3d_pidProjection_labeled.png)
 
+Graphical cuts and additional conditions from auxiliary detectors are employed to isolate the relevant isotopes.
+With the isotopes identified, we can then analyze specific implantation events and extract the time distribution of coincidence events (beta, gamma, neutron) to create the corresponding coincidence histograms. 
+These histograms are subsequently fitted to determine the decay properties, including half-life and delayed neutron emission probabilities.
+
 ### References on the poster:
-[1]
-[2]
-[3]
-[4]
+[1] J.J. Cowan et al., [Rev. of Mod. Phys. **93**, 015002 (2021)](https://doi.org/10.1103/RevModPhys.93.015002)  
+[2] M.R. Mumpower, G.C. McLaughlin, [PRC **85**, 045801 (2012)](http://dx.doi.org/10.1103/PhysRevC.85.045801)  
+[3] A. Tolosa-Delgado et al., [NIM **925**, 133 (2019)](https://doi.org/10.1016/j.nima.2019.02.004)  
+[4] G.G. Kiss et al., [ApJ **936**, 107 (2022)](https://doi.org/10.3847/1538-4357/ac80fc) - main publication
